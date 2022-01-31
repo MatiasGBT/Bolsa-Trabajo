@@ -1,0 +1,7 @@
+beans\model\Oferta.class
+beans\helper\Conexion.class
+beans\model\Candidato.class
+beans\model\Empresa.class
+beans\helper\DatosHelper.class
+beans\backing\VacanteForm.class
+beans\configuracion\ConfigurationJSF.class
